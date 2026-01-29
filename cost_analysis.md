@@ -1,5 +1,7 @@
 # Cost Analysis: CloudWatch Logs vs OpenSearch
 ## Sources https://aws.amazon.com/cloudwatch/pricing/
+# Cost Analysis: CloudWatch Logs vs OpenSearch
+
 **Basis of Estimate**
 *   **Daily Ingestion**: 764 GB / day
 *   **Retention**: 14 Days (derived from ISM policy)
